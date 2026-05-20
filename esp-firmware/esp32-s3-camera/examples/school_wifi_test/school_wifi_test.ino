@@ -37,11 +37,11 @@ const char *WIFI_SSID = "eduroam";
 // - EAP_USERNAME is your login identity. Some schools want netid@school.edu, others want only netid.
 // - EAP_PASSWORD is your campus password.
 const char *EAP_OUTER_IDENTITY = "anonymous@ucr.edu";
-const char *EAP_USERNAME = "yourNetID@ucr.edu";
-const char *EAP_PASSWORD = "yourCampusPassword";
+const char *EAP_USERNAME = "hshim023@ucr.edu";
+const char *EAP_PASSWORD = "EijiHikaru051058)";
 
 // For normal WPA/WPA2 Personal networks.
-const char *WIFI_PASSWORD = "yourWifiPassword";
+const char *WIFI_PASSWORD = "EijiHikaru051058)";
 
 const uint32_t CONNECT_TIMEOUT_MS = 45000;
 
